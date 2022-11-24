@@ -1,4 +1,4 @@
-// Getting input via STDIN
+// Getting  input via STDIN
 const readline = require("readline");
 
 const inp = readline.createInterface({
