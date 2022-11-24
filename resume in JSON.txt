@@ -78,3 +78,205 @@ let resume={
   ]
     
  };
+ 
+ OUTPUT:
+ Object
+education
+: 
+Array(1)
+0
+: 
+education 1
+: 
+area
+: 
+"Ramanathapuram"
+endDate
+: 
+"2011-04-25"
+institution
+: 
+"Syed Ammal Higher Secondary School"
+percentage
+: 
+"79.2"
+startDate
+: 
+"2010-06-01"
+studyType
+: 
+"SSLC"
+[[Prototype]]
+: 
+Object
+education 2
+: 
+area
+: 
+"Ramanathapuram"
+endDate
+: 
+"2013-04-25"
+institution
+: 
+"Syed Ammal Higher Secondary School"
+percentage
+: 
+"77.75"
+startDate
+: 
+"2012-06-01"
+studyType
+: 
+"HSC"
+[[Prototype]]
+: 
+Object
+education 3
+: 
+area
+: 
+"coimbatore"
+cgpa
+: 
+"64.48"
+endDate
+: 
+"2017-05-25"
+institution
+: 
+"Jansons Institute of Technology"
+startDate
+: 
+"2013-08-01"
+studyType
+: 
+"Bachelors in Engineering"
+[[Prototype]]
+: 
+Object
+[[Prototype]]
+: 
+Object
+length
+: 
+1
+[[Prototype]]
+: 
+Array(0)
+experience
+: 
+capacity
+: 
+" 92.2 MW * 2  (58.5 + 33.7)"
+company
+: 
+"Tech and Mech, Engineers and Erectors"
+company make
+: 
+Array(2)
+0
+: 
+"GTG - ANSALDO ENERGIA"
+1
+: 
+"STG - QINGDO JIENENG STEAM TURBINE"
+length
+: 
+2
+[[Prototype]]
+: 
+Array(0)
+endDate
+: 
+"till date"
+position
+: 
+"Mechanical Maintenance Engineer"
+startDate
+: 
+"2018-9-14"
+summary
+: 
+"A one-sentence to one-paragraph summary of this employer or position"
+working station
+: 
+"Valuthur Gas Turbine Power Station,Ramanathapuram"
+[[Prototype]]
+: 
+Object
+interests
+: 
+Array(1)
+0
+: 
+{interest 1: 'sports', interested sports: Array(1)}
+length
+: 
+1
+[[Prototype]]
+: 
+Array(0)
+languages
+: 
+Array(1)
+0
+: 
+fluency
+: 
+"fluency in speak,read and write"
+language
+: 
+"Tamil,English"
+[[Prototype]]
+: 
+Object
+length
+: 
+1
+[[Prototype]]
+: 
+Array(0)
+location
+: 
+address
+: 
+"1/3006-1,nehru nagar 6th street"
+city
+: 
+"Ramanathapuram"
+country
+: 
+"india"
+postalCode
+: 
+"623503"
+state
+: 
+"tamilnadu"
+[[Prototype]]
+: 
+Object
+personal details
+: 
+age
+: 
+"26"
+date of birth
+: 
+"1995-10-04"
+degree
+: 
+"B.E - Mechanical Engineering"
+email
+: 
+"writetosala10@gmail.com"
+name
+: 
+"MOHAMED SALAHUDEEN J"
+nationality
+: 
+"Indian"
+phone
+: 
+"9659339624"
